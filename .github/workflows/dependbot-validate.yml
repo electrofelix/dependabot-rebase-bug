@@ -2,7 +2,7 @@ name: dependabot validate
 
 on:
   pull_request:
-<F7>
+
 jobs:
   validate:
     runs-on: ubuntu-latest
